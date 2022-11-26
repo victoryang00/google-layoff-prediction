@@ -12,3 +12,7 @@ Read from person.csv and use linkedin_scaper python api to scrape every person f
 
 ## Google/ Amazon layoff prediction
 Since we know how much money last finantial year meta is losing, we can predict how much people, which people at which level doing what will be affected in Google/Amazon layoff.
+
+### Metrics 
+1. salary, the salary bit by the Bain consulting company. l3 is entry(timing starting from his/her first company) and 2 years every level to l5 and 5 years every level to l9, non-famous school *0.85, PhD *1.4
+2. division/duty of work, pattern matching to gcp/youtube/android/fuscia/tpu/deepmind/brain doing frontend/backend/infra/AI
